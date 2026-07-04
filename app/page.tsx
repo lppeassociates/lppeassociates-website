@@ -54,3 +54,13 @@ export default function Home() {
             borderRadius: '999px',
             fontFamily: 'Arial, Helvetica, sans-serif',
             fontWeight: 'bold',
+            letterSpacing: '0.04em',
+            textDecoration: 'none',
+          }}
+        >
+          info@lppeassociates.com
+        </a>
+      </div>
+    </main>
+  )
+}
